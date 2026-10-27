@@ -8,7 +8,7 @@
 ---
 
 ## Wat heb ik gemaakt?
-Ik heb een simpele sidescroller platformer gemaakt. Je moet alle munten verzamelen terwijl je obstakels moet vermijden.
+Ik heb een simpele platformer gemaakt. Je moet alle munten verzamelen om te winnen.
 
 ![Mini-level preview](gameplay.gif)
 
