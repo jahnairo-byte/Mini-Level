@@ -1,4 +1,4 @@
-# Mini-level — Inleveren
+# Mini-level
 
 **Naam:** Jahnairo Hanenberg
 **Klas:** SD1C
